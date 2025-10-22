@@ -18,13 +18,13 @@
 - [Тест-план](Library-Project/test-plan.md)
 - [Чек-листы](Library-Project/checklists)
 - [Тест-кейсы](Library-Project/test-cases)
-- [Баг-репорты]
+- [Баг-репорты](Library-Project/bug-reports.md)
 - [Тестовый отчет]
 - [Матрица трассировки]
 
 **Дополнительно**
-- [Скриншоты найденных багов]
-- [Баги и тест-кейсы оформленные в Jira]
+- [Скриншоты найденных багов](Library-Project/screenshots)
+- [Баги и тест-кейсы оформленные в Jira](Library-Project/jira-screenshots)
 
 **Что использовала:**
 - **Тестирование:** Функциональное, Регрессионное, Smoke
