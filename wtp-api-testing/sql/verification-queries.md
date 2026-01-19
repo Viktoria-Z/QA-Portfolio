@@ -259,4 +259,3 @@ ORDER BY expire_at ASC;
 - после `GET /login` проверяла, что токен создаётся в `tokens` и `expire_at` больше текущего времени;
 - дополнительно фиксировала SQL‑наблюдения по security (пароли в открытом виде, просроченные токены — если присутствуют).
 
-Скриншоты (Postman/SQL) приложены в папке [screenshots](wtp-api-testing/screenshots).
